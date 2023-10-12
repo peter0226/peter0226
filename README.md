@@ -5,8 +5,8 @@
 
 ## Sobre mi
 - 🚀 Apasionado por aprender y enseñar nuevas tecnologías.
-- 👔 Cofundador, CEO y desarrollador web, móvil y de escritorio en [Owlify](https://owlify.com.mx) (🦉).
-- 👨‍🏫 Docente en Universidad UCAD.
+- 👔 Cofundador, <b>CEO</b> y <b>desarrollador</b> web, móvil y de escritorio en [Owlify](https://owlify.com.mx) (🦉).
+- 👨‍🏫 <b>Docente</b> en Universidad UCAD.
 <br>
 
 ### Lenguajes de Programación:
