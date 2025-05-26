@@ -8,7 +8,7 @@
 - 👨‍🏫 <b>Docente</b> en Universidad UVM y UCAD.
 <br>
 
-### 🖥Lenguajes de Programación:
+### Lenguajes de Programación:
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
